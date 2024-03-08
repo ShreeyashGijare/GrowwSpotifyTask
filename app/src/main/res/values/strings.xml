@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GrowwTask</string>
+
+    <string name="tv_lbl_search">What do you want to listen to?</string>
+    <string name="tv_lbl_popular">Popular</string>
+    <string name="tv_lbl_popular_releases">Popular Releases</string>
+    <string name="tv_lbl_fans_also_like">Fans also like</string>
+
+</resources>

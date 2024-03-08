@@ -1,0 +1,10 @@
+package com.example.growtask.data.data_models.artistModel
+
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
+data class Followers(
+    val href: String,
+    val total: Int
+) : Parcelable
